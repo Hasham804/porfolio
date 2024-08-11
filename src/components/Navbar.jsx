@@ -69,11 +69,11 @@ const Navbar = () => {
             <CustomLink href={"/contact"} title="Contact" className='ml-4' />
         </nav>
         <nav className='flex items-center justify-center flex-wrap'>
-            <motion.a href={"https://www.linkedin.com/in/mudassar-rana-787971235/"} target='_blank' 
+            <motion.a href={"https://www.linkedin.com/in/hasham-awan-a29013322/"} target='_blank' 
             whileHover={{y:-2}}
             whileTap={{scale:0.9}}
             className='w-6 mr-3'><LinkedInIcon/></motion.a>
-            <motion.a href={"https://github.com/Mudassar-1"} target='_blank'  
+            <motion.a href={"https://github.com/Hasham804"} target='_blank'  
             whileHover={{y:-2}}
             whileTap={{scale:0.9}}
             className='w-6 mx-3'><GithubIcon/></motion.a>
@@ -120,11 +120,11 @@ const Navbar = () => {
             <CustomMobileLink href={"/contact"} title="Contact" className='' toggle={handleClick}/>
         </nav>
         <nav className='flex items-center justify-center flex-wrap mt-2'>
-            <motion.a href={"https://www.linkedin.com/in/mudassar-rana-787971235/"} target='_blank' 
+            <motion.a href={"https://www.linkedin.com/in/hasham-awan-a29013322/"} target='_blank' 
             whileHover={{y:-2}}
             whileTap={{scale:0.9}}
             className='w-6 mr-3 sm:mx-1'><LinkedInIcon/></motion.a>
-            <motion.a href={"https://github.com/Mudassar-1"} target='_blank'  
+            <motion.a href={"https://github.com/Hasham804"} target='_blank'  
             whileHover={{y:-2}}
             whileTap={{scale:0.9}}
             className='w-6 mx-3 bg-light rounded-full dark:bg-dark sm:mx-1'><GithubIcon/></motion.a>

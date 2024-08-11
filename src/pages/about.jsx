@@ -37,7 +37,7 @@ const about = () => {
   return (
     <>
     <Head>
-        <title>Mudassar | About Page</title>
+        <title>Hasham | About Page</title>
         <meta name='description' content='About page' />
     </Head>
     <TransitionEffect/>
@@ -47,10 +47,9 @@ const about = () => {
         <div className='grid w-full grid-cols-8 gap-16 sm:gap-8'>
             <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
             <h2 className=' mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75 '>Biography</h2>
-            <p className='font-medium '>Hi, I'm Mudassar Ali, a web developer  with a passion for creating beautiful, functional, and user-centered digital experiences. With 1 years of experience in the field. I am always looking for new and innovative ways to bring my clients' visions to life.</p>
-            <p className='font-medium my-4'>With one year of experience as a full stack web developer, Mudassar Ali has tackled and solved many challenging targets. His proficiency in both front-end and back-end technologies has enabled him to overcome complex problems and deliver high-quality solutions</p>
-
-            <p className='font-medium '> full stack web developer skilled in both front-end and back-end technologies. He excels in creating responsive interfaces using React and Next.js, integrating APIs, and ensuring optimal performance. On the back end, he is proficient in Node.js, Express.js, and database management, designing robust server architectures and secure data transactions.</p>
+            <p className='font-medium '>Hi, I'm Hasham Awan, a Python developer with a passion for crafting efficient, scalable, and reliable software solutions. With 1 year of experience in the field, I am always exploring innovative ways to tackle complex problems and deliver high-quality results.</p>
+            <p className='font-medium my-4'>With one year of experience as a Python developer, Hasham Awan has addressed and solved numerous technical challenges. His expertise in Python has enabled him to build robust applications, handle data processing tasks, and implement effective solutions across various projects.</p>
+            <p className='font-medium '>Hasham Awan is skilled in Python development, with proficiency in creating efficient algorithms, working with data libraries like Pandas and NumPy, and developing web applications using frameworks such as Django and Flask. He excels in designing clean code, optimizing performance, and ensuring reliable and scalable solutions.</p>
 
             </div>
             <div className='col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light dark:border-light dark:bg-dark  p-8 xl:col-span-4 md:order-1 md:col-span-8 '>

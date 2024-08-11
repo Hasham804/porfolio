@@ -6,7 +6,7 @@ import { useForm, ValidationError } from '@formspree/react';
 import TransitionEffect from '@/components/TransitionEffect';
 
 const Contact = () => {
-  const [state, handleSubmit] = useForm("meojklda"); // Replace with your Formspree project ID
+  const [state, handleSubmit] = useForm("mzzpgjjn"); // Replace with your Formspree project ID
 
   if (state.succeeded) {
     return (
@@ -22,7 +22,7 @@ const Contact = () => {
   return (
     <>
       <Head>
-        <title>Mudassar | Contact Page</title>
+        <title>Hasham | Contact Page</title>
         <meta name='description' content='Contact page' />
       </Head>
       <TransitionEffect/>
