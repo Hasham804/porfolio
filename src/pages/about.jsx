@@ -3,7 +3,7 @@ import Head from 'next/head'
 import AnimatedText from '@/components/AnimatedText'
 import Layout from '@/components/Layout'
 import Image from 'next/image'
-import Skills from '@/components/skill'
+import Skills from '@/components/Skill'
 import profilePic from "../../public/images/profile/developer-pic-2.jpg"
 import { useInView, useMotionValue, useSpring } from 'framer-motion'
 import TransitionEffect from '@/components/TransitionEffect'
